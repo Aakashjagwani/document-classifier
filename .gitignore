@@ -97,3 +97,4 @@ ENV/
 activate-kar.bat
 deactivate-kar.bat
 python-kar.bat
+20_newsgroups/
